@@ -1,0 +1,32 @@
+{
+  "version": "3.83.31444.0",
+  "course_id": "6ZPxEMCO0a5",
+  "title": "Gilbert's Pharmaceutical Mod01 Suspects of Symptoms",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Mod1 Suspects of Symptoms"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6J1MCXoGvyI",
+      "title": "Drag and Drop Activity",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6L3daYM0mnr",
+      "title": "End",
+      "scene_index": "1.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
